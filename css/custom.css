@@ -1,0 +1,25 @@
+body{
+    background-color: palevioletred;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    text-align: center;
+    
+}
+
+.a{
+
+    text-decoration: none;
+    color:white;
+}
+
+.selector{
+    background-color:white;
+    border: 0;
+    width: 5rem;
+    height: 5rem;
+    font-size: 1rem;
+}
+
